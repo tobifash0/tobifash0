@@ -5,7 +5,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ## 👨‍💻 Information Technology Projects:
 - [IT Helpdesk Home Lab Series](https://github.com/tobifash0/IT-Helpdesk-Lab-Series)
-- [Microsoft Office 365 Admin Center Home Lab]
+- [Microsoft Office 365 Admin Center Home Lab](https://github.com/tobifash0/Microsoft-Office-365-Admin-Center-Lab)
 ## 💻 My Web Design Porfolio:
 - [Tobifash.com](https://tobifash.com)
   
