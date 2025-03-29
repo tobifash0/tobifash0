@@ -1,5 +1,5 @@
 # Welcome to my Github, I'm Tobi!
-Cyber Security Analyst | IT Support Specialist | WordPress Developer
+Web Designer | IT Support Specialist
 # Objective
 In this Github Repository, I have presented a range of projects that highlight my skills in problem-solving, practical application, and utilizing industry-standard tools and approaches to tackle real-world tech difficulties.
 
